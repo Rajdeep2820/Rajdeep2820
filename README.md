@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg#light">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep+Singh+Panwar!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=2D2D2D&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Naman+Mahajan!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=2D2D2D&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep+Singh+Panwar!" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -18,8 +18,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rajdeep2820&color=blue)
 - 🎓 Student at SRM Institute of Science and Technology
 - 📚 I'm currently learning DSA
-- 🖥 Passionate about App Development
-- ⚡Fun fact: I’m always open to learning new things!
+- 🖥 Passionate about Web Development
+- ⚡Fun fact: Koi fun fact Nhi hai...Sirf Padhai krta hoon main😁!
 <br>
 
 ## 🛠 Skills
