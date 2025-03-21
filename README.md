@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rajdeep!
 
-![Profile Views](https://komarev.com/ghpvc/?username=ATG-AVI&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Rajdeep2820&color=blue)
 
 🎓 **Student at SRM Institute of Science and Technology**  
 🖥️ **Passionate about Software Development and Design**  
