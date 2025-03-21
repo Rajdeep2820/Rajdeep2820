@@ -4,8 +4,8 @@
 
 🎓 **Student at SRM Institute of Science and Technology**  
 🖥️ **Passionate about Software Development and Design**  
-🌱 **Currently learning Flutter for App Development**  
-💬 **Ask me about:** C, C++, Python, Java, R, Lua, Dart, Flutter, HTML, CSS, Figma, Adobe, Blender, and more!
+🌱 **Currently learning Web Development**  
+💬 **Ask me about:** C, C++, Java, HTML, CSS, Javascript, Bootstrap, React, Node.js, Figma, Canva and more!
 
 ## 🛠️ Skills
 
@@ -41,7 +41,3 @@
 ## 🤝 Contributions
 - Contributing to various open-source projects
 - Active participation in coding communities
-
-  ## 🎮 Play Tic-Tac-Toe!
-I made a simple Tic-Tac-Toe game using HTML, CSS, and JavaScript.  
-Try it out here: [Play Now](https://rajdeep2820.github.io/)
