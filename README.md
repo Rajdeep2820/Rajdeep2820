@@ -3,8 +3,8 @@
 
 <a href="https://git.io/typing-svg#light">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep+Singh+Panwar!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=2D2D2D&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep+Singh+Panwar!" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=2D2D2D&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep!" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -68,8 +68,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep2820&layout=compact&theme=radical" alt="Top Languages" />
 
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajdeep2820/Rajdeep2820/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajdeep2820/Rajdeep2820/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/Rajdeep2820/Rajdeep2820/output/github-snake.svg" />
-</picture>
