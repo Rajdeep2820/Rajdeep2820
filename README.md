@@ -41,3 +41,7 @@
 ## 🤝 Contributions
 - Contributing to various open-source projects
 - Active participation in coding communities
+
+  ## 🎮 Play Tic-Tac-Toe!
+I made a simple Tic-Tac-Toe game using HTML, CSS, and JavaScript.  
+Try it out here: [Play Now](https://rajdeep2820.github.io/)
