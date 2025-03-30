@@ -3,8 +3,8 @@
 
 <a href="https://git.io/typing-svg#light">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=2D2D2D&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep!" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep!" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -45,7 +45,6 @@
   <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" data-canonical-src="" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="express" data-canonical-src="" style="max-width: 100%;"></a>
 </div>
