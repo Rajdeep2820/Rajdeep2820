@@ -96,10 +96,10 @@
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep2820&show_icons=true&theme=FFFFFF&text_color=1e40af&title_color=1e40af" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep2820&show_icons=true&theme=FFFFFF&text_color=0000009F&title_color=1e40af" alt="GitHub Stats" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep2820&layout=compact&theme=white&text_color=1e40af&title_color=1e40af" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep2820&layout=compact&theme=white&text_color=0000009F&title_color=1e40af" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -107,13 +107,13 @@
 <br>
 
 <!-- Streak stats centered -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep2820&theme=white&background=FFFFFFF&fire=1e40af&currStreakLabel=1e40af&sideNums=555555&dates=555555" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep2820&theme=white&background=FFFFFF&fire=1e40af&currStreakLabel=1e40af&sideNums=0000009F&dates=555555" alt="GitHub Streak" />
 
 </div>
 
 
 
-<!-- Total contributions -->
+
 
 
 
