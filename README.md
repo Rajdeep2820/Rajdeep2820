@@ -93,15 +93,15 @@
 <div align="center">
 
 <!-- First two stats side by side -->
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep2820&show_icons=false&count_private=truetext_color=0000009F&title_color=1e40af" alt="GitHub Stats" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep2820&layout=compact&theme=white&text_color=0000009F&title_color=1e40af" alt="Top Languages" />
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep2820&show_icons=false&count_private=true&text_color=0000009F&title_color=1e40af" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep2820&layout=compact&theme=white&text_color=0000009F&title_color=1e40af" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 <br>
