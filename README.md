@@ -9,7 +9,7 @@
 
 </div>
 
-<h3 align="center" style="color:#000000;">A passionate Full-Stack Developer and Life-Long Learner based in India</h3>
+<h3 align="center" style="color:#000000;">A Passionate Developer, Problem Solver & Life-Long Learner based in India 🚀</h3>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
