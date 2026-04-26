@@ -81,33 +81,46 @@
 
 ## 🌐 Find me around the web 🌍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-singh-panwar-882532344/)
-[![Instagram](https://img.shields.io/badge/Instagram-1E40AF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajdeepsingh_panwar/)
-[![Gmail](https://img.shields.io/badge/Gmail-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeepsinghpanwar1@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-1E40AF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7FFF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rajdeep-singh-panwar-882532344/)
+[![Instagram](https://img.shields.io/badge/Instagram-7FFF00?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/rajdeepsingh_panwar/)
+[![Gmail](https://img.shields.io/badge/Gmail-7FFF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rajdeepsinghpanwar1@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7FFF00?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/channels/@me)
 
 <br>
 
-## 📈 GitHub Stats
-
+<h2><b>📊 Github Stats</b></h2>
 <div align="center">
-
-<!-- First two stats side by side -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep2820&show_icons=false&count_private=true&text_color=0000009F&title_color=1e40af&v=1.1" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep2820&layout=compact&theme=white&text_color=0000009F&title_color=1e40af&v=1.1" alt="Top Languages" />
-    </td>
-  </tr>
+<table>
+    <thead>
+        <tr>
+            <th>Rajdeep's Languages</th>
+            <th>Rajdeep's Streaks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs?username=Rajdeep2820&show_icons=true&locale=en&theme=chartreuse-dark&langs_count=6&layout=compact">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajdeep2820&show_icons=true&locale=en&theme=chartreuse-dark&langs_count=6&layout=compact" alt="Rajdeep's Top Languages" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep2820&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=chartreuse-dark&sideLabels=f77f00">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep2820&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=chartreuse-dark&sideLabels=f77f00" alt="Rajdeep's GitHub Streak" style="max-width: 100%;">
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>
+
 <br>
 
-<!-- Streak stats centered -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep2820&theme=white&background=FFFFFF&fire=1e40af&currStreakLabel=1e40af&sideNums=0000009F&dates=555555" alt="GitHub Streak" />
+<!-- 📈 GitHub Activity Graph -->
+<a href="https://github.com/Rajdeep2820">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajdeep2820&theme=chartreuse-dark&hide_border=false&area=true&line=7FFF00&point=ffffff&color=ffffff" alt="Rajdeep's GitHub Activity Graph" style="max-width: 100%;">
+</a>
 
+<br>
 </div>
 
 
